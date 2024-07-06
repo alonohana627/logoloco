@@ -2,7 +2,7 @@ package sink_test
 
 import (
 	"bufio"
-	s "github.com/alonohana627/logoloco/sink"
+	s "github.com/alonohana627/logoloco/v1/sink"
 	"os"
 	"strings"
 	"testing"
