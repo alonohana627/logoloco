@@ -2,7 +2,7 @@ package formatter
 
 import (
 	"fmt"
-	"github.com/alonohana627/logoloco/v1/level"
+	"github.com/alonohana627/logoloco/level"
 	"time"
 )
 
