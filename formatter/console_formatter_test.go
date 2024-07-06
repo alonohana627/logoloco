@@ -1,8 +1,8 @@
 package formatter_test
 
 import (
-	f "github.com/alonohana627/logoloco/formatter"
-	"github.com/alonohana627/logoloco/level"
+	f "github.com/alonohana627/logoloco/v1/formatter"
+	"github.com/alonohana627/logoloco/v1/level"
 	"strings"
 	"testing"
 	"time"
