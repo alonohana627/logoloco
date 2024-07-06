@@ -1,7 +1,7 @@
 package formatter_test
 
 import (
-	"logoloco/formatter"
+	"github.com/alonohana627/logoloco/v1/formatter"
 	"testing"
 	"time"
 )

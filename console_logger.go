@@ -1,9 +1,9 @@
 package logoloco
 
 import (
-	"logoloco/formatter"
-	"logoloco/level"
-	"logoloco/sink"
+	"github.com/alonohana627/logoloco/v1/formatter"
+	"github.com/alonohana627/logoloco/v1/level"
+	"github.com/alonohana627/logoloco/v1/sink"
 	"os"
 )
 

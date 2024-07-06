@@ -1,7 +1,7 @@
 package formatter
 
 import (
-	"logoloco/level"
+	"github.com/alonohana627/logoloco/v1/level"
 )
 
 // LogFormatter is an interface specifying a method
